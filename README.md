@@ -18,9 +18,7 @@
 - MERN stack.
 - Ethereum smart contract, Truffle, Solidity.
 - Solved more than 600 questions of data structures and algorithms.
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](http.com)** -->
 - Reach me **abi.xa12@gmail.com**
-
 - Ps. **hypertrophy is Priority :)**
 
 <br>
