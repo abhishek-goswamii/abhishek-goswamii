@@ -17,12 +17,8 @@
 
 - MERN stack developer.
 
-- Solved more than 600 data structures and algorithms questions.
-
-- Looking to collaborate on **OpenSource Projects**.
-
+- Solved more than 600 quetions of data structures and algorithms.
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](http.com)** -->
-
 - Reach me **abi.xa12@gmail.com**
 
 - Ps. **hypertrophy is Priority :)**
