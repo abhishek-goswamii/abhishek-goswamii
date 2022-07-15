@@ -7,8 +7,6 @@
 
 <br/>
 
-<h3 align="center">Full Stack Developer from India </h3>
-
 <br>
 <br>
 
