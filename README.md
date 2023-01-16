@@ -3,7 +3,7 @@
 
 <br/>
 
-<a href="#"><img width="100%" height="auto" src="/git-artwork.svg" height="175px"/></a>
+<a href="#"><img width="auto" height="auto" src="/git-artwork.svg" height="175px"/></a>
 
 <br/>
 
